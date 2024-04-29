@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+p.success_flashdata{
+            color: #3c763d;
+            padding: 5px;
+            border: 1px solid #d6e9c6;
+            background: #dff0d8;
+        }
+p.error_flashdata{
+    color: #a94442;
+    padding: 5px;
+    border: 1px solid #ebccd1;
+    background: #f2dede;
+}
+.Metronic-alerts p{
+	margin: 0px;
+}
+li.workspace{
+	padding: 23px !important;
+}
+li.workspace select{
+	padding: 3px;
+	border: 1px solid #ccc; 
+}
+.modal-records{
+	background-color: #f2f2f2;border:1px solid #ccc;padding: 10px;
+}
+.modal-records p{
+	margin: 2px;
+	padding: 3px;
+
+	}
+/*############### new css ###############*/
+.check-mark{
+	font-size:80px;
+	margin-top:50px;
+	text-align: center;
+}
